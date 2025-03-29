@@ -11,7 +11,8 @@ A collection of my implementations and insights on various machine learning algo
 
 ## Repository Structure
 - `notebooks/` - Jupyter notebooks with detailed explanations and code examples.
-- 'pdf' - Notion/ Handwritten notes
+- 'pdf' - Handwritten notes
+- Notion - Typed notes 'https://www.notion.so/Machine-Learning-1c4ea788dcaa80f5a1a2cbb0f91f24db?pvs=4'
 
 ## Getting Started
 1. Clone the repository:
