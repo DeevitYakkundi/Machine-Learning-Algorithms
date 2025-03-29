@@ -5,7 +5,8 @@ A collection of my implementations and insights on various machine learning algo
 ## Algorithms Covered
 
 - Supervised Learning
-  - Linear Regression
+  1. Linear Regression
+  2. Multiple Linar Regression
  
 
 ## Repository Structure
